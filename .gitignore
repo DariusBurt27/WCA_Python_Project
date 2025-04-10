@@ -1,3 +1,9 @@
+# Ignore data directory (contains large WCA_export_Results.tsv dataset)
 data/
 
-.ipynb_checkpoints 
+# Ignore Jupyter Notebook checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore Python cache files/directories
+__pycache__/
+*.pyc
