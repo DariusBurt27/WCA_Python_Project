@@ -1,5 +1,5 @@
 # Ignore data directory (contains large WCA_export_Results.tsv dataset)
-data/
+Data/
 
 # Ignore Jupyter Notebook checkpoint directories
 .ipynb_checkpoints/
